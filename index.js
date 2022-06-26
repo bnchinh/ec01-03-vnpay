@@ -6,7 +6,7 @@ const cookieParser = require("cookie-parser");
 const bodyParser = require("body-parser");
 const payment = require("./routes/payment");
 const app = express();
-const port = process.env.PORT || 8080;
+const port = process.env.PORT || 3333;
 
 app.set("views", path.join(__dirname, "views"));
 app.set("view engine", "jade");
