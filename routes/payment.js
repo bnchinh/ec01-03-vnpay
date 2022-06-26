@@ -1,3 +1,4 @@
+import config from "../config"
 var express = require('express');
 var router = express.Router();
 var $ = require('jquery');
