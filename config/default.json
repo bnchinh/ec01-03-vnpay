@@ -7,5 +7,8 @@
 =======
   "vnp_Url":"https://sandbox.vnpayment.vn/paymentv2/vpcpay.html",
   "vnp_ReturnUrl": "http://localhost:8888/order/vnpay_return"
+<<<<<<< HEAD
+>>>>>>> parent of 2befc1f (change url return)
+=======
 >>>>>>> parent of 2befc1f (change url return)
 }
